@@ -1,4 +1,3 @@
-// 375663013764-mh0pkdi3b9hvrm72op6o2tp3ade62acs.apps.googleusercontent.com
 import React from 'react';
 import { 
   StyleSheet,
